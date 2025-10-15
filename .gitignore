@@ -50,3 +50,5 @@ uv.lock
 .coverage
 htmlcov/
 .vercel
+
+.vercel
